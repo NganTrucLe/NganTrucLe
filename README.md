@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍🦰 I'm currently a sophomore at Vietnam National University - Ho Chi Minh City University of Science, major in Software Engineer.
-- 😎 My big dream is to be a full-stack developer, but I'm not sure, maybe it will change very soon because I am a ambition person.
+- 😎 My big dream is to be a full-stack developer, but I'm not sure, maybe it will change very soon because I am an ambitious person.
 - 🤣 I have some interests that are very opposite to what I am studying. I like to design, draw and paint. I am addicted to books and films (especially K-dramas but I do watch anime too). I am enjoying to be a part-time coder and part-time dreamer!!!
 - 👩‍💻 "Not afraid of new things, never stop learning" is what you can see in me.
 - ✍ My [CV][CV]
